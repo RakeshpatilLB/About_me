@@ -24,7 +24,7 @@ preview
 
 - 🌱 I’m currently learning **Digital and Analog circuit design**
 
-- 💬 Ask me about **System verilog,verilog,Mentor-graphics**
+- 💬 Ask me about **Verilog,Mentor-graphics,Cadence Virtuoso**
 
 - 📫 How to reach me **rakeshpatil1112369@gmail.com**
 
