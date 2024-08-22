@@ -1,20 +1,5 @@
 # RakeshpatiLB
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20398
-Fork on GitHub
-6244
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A passionate Electronics Engineering student from India</h3>
 
