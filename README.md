@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshpatilb&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshpatilb" /> </p>
 
-- 🔭 I’m currently working on **ML-EDGE device latency reduction**
+- 🔭 I’m currently working on **ML-EDGE device latency reduction(Hardware based research)**
 
 - 🌱 I’m currently learning **Digital and Analog circuit design**
 
-- 💬 Ask me about **Verilog,Mentor-graphics,Cadence Virtuoso**
+- 💬 Ask me about **Verilog,Mentor-graphics,Cadence Virtuoso, Xilinx vivado**
 
 - 📫 How to reach me **rakeshpatil1112369@gmail.com**
 
