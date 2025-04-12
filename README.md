@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ML-EDGE device latency reduction(Hardware based research)**
 
-- 🌱 I’m currently learning **Digital and Analog circuit design**
+- 🌱 I’m currently learning **Digital circuit design and verification**
 
 - 💬 Ask me about **Verilog,Mentor-graphics,Cadence Virtuoso, Xilinx vivado**
 
