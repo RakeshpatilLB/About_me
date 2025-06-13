@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on projects related to RTL Design, Verification, FPGA prototyping of Digital designs ,etc.
   
-- **Specializing in Digital VLSI.**
+- 👨‍🎓 **Specializing in Digital VLSI.**
 
 - 💬 Ask me about **Verilog, SystemVerilog, RISC-V, Cadence Genus, Cadence Jasper Gold, Xilinx vivado**
 
