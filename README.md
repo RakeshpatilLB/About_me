@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshpatilb&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshpatilb" /> </p>
 
-- 🔭 I’m currently working on **ML-EDGE device latency reduction(Hardware based research)**
+- 🔭 I’m currently working on projects related to RTL Design, Verification, FPGA prototyping of Digital designs ,etc.
+  
+- **Specializing in Digital VLSI.**
 
-- 🌱 I’m currently learning **Digital circuit design and verification**
-
-- 💬 Ask me about **Verilog,Mentor-graphics,Cadence Virtuoso, Xilinx vivado**
+- 💬 Ask me about **Verilog, SystemVerilog, RISC-V, Cadence Genus, Cadence Jasper Gold, Xilinx vivado**
 
 - 📫 How to reach me **rakeshpatil1112369@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
